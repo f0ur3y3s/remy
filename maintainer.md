@@ -72,6 +72,6 @@ TODO: Link tunnel and pass onto next machine
 
 | Return code | Description |
 | ----------- | ----------- |
-| `0x00`      | Success     |
+| `0x01`      | Success     |
 | `0xFF`      | Failure     |
 
